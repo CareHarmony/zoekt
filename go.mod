@@ -1,6 +1,6 @@
 module github.com/sourcegraph/zoekt
 
-replace github.com/sourcegraph/zoekt => github.com/CareHarmony/zoekt
+replace github.com/sourcegraph/zoekt => github.com/CareHarmony/zoekt gitea-import
 
 require (
 	cloud.google.com/go/profiler v0.4.2
