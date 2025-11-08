@@ -1,5 +1,7 @@
 module github.com/sourcegraph/zoekt
 
+replace github.com/sourcegraph/zoekt => github.com/CareHarmony/zoekt
+
 require (
 	cloud.google.com/go/profiler v0.4.2
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230811130428-ced1acdcaa24
